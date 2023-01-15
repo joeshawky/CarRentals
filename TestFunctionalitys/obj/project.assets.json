@@ -9036,11 +9036,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joe\\Desktop\\kodlamaio\\ReCapProject\\TestFunctionalitys\\TestFunctionalitys.csproj",
+      "projectUniqueName": "C:\\Users\\Joe\\Documents\\GitHub\\CarRentals\\TestFunctionalitys\\TestFunctionalitys.csproj",
       "projectName": "TestFunctionalitys",
-      "projectPath": "C:\\Users\\Joe\\Desktop\\kodlamaio\\ReCapProject\\TestFunctionalitys\\TestFunctionalitys.csproj",
+      "projectPath": "C:\\Users\\Joe\\Documents\\GitHub\\CarRentals\\TestFunctionalitys\\TestFunctionalitys.csproj",
       "packagesPath": "C:\\Users\\Joe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Joe\\Desktop\\kodlamaio\\ReCapProject\\TestFunctionalitys\\obj\\",
+      "outputPath": "C:\\Users\\Joe\\Documents\\GitHub\\CarRentals\\TestFunctionalitys\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -9061,14 +9061,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Joe\\Desktop\\kodlamaio\\ReCapProject\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\Joe\\Desktop\\kodlamaio\\ReCapProject\\Business\\Business.csproj"
+            "C:\\Users\\Joe\\Documents\\GitHub\\CarRentals\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\Joe\\Documents\\GitHub\\CarRentals\\Business\\Business.csproj"
             },
-            "C:\\Users\\Joe\\Desktop\\kodlamaio\\ReCapProject\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Joe\\Desktop\\kodlamaio\\ReCapProject\\Core\\Core.csproj"
+            "C:\\Users\\Joe\\Documents\\GitHub\\CarRentals\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Joe\\Documents\\GitHub\\CarRentals\\Core\\Core.csproj"
             },
-            "C:\\Users\\Joe\\Desktop\\kodlamaio\\ReCapProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Joe\\Desktop\\kodlamaio\\ReCapProject\\Entities\\Entities.csproj"
+            "C:\\Users\\Joe\\Documents\\GitHub\\CarRentals\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Joe\\Documents\\GitHub\\CarRentals\\Entities\\Entities.csproj"
             }
           }
         }
